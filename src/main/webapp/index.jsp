@@ -14,6 +14,7 @@
             background-color: #ff5c00; /* Swiggy's orange color */
             font-family: Arial, sans-serif;
         }
+
         h1 {
             color: white;
             font-size: 5rem;
@@ -26,8 +27,6 @@
     </style>
 </head>
 <body>
-    <h1>Swiggy</h1>
-<br>
-    <h2 style="color:blue">in 10 min</h2>
+    <h1>Swiggy instamart</h1>
 </body>
 </html>
