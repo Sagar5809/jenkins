@@ -27,5 +27,6 @@
 </head>
 <body>
     <h1>Swiggy</h1>
+    <h2 style="color:blue">in 10 min</h2>
 </body>
 </html>
